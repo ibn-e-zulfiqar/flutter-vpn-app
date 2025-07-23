@@ -36,6 +36,19 @@ A modern VPN client built with Flutter and Kotlin. Ghostline VPN connects to [VP
 
 ---
 
+## 📂 Folder Structure Highlights
+
+lib/
+│
+├── controller/
+│   └── location_controller.dart      # Handles IP & server data fetching
+├── screens/
+│   ├── home.dart                     # VPN status screen
+│   └── serverscreen.dart            # List & select VPN servers
+├── vpn/
+│   └── vpn_controller.dart          # Handles VPN start/stop
+
+
 ## 🛠️ Tech Stack
 
 | Layer         | Technology                            |
@@ -62,4 +75,20 @@ A modern VPN client built with Flutter and Kotlin. Ghostline VPN connects to [VP
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/ibn-e-zulfiqar/flutter-vpn-app
+
+
+
+## 🙋‍♂️ About Me
+
+Hi, I'm **Bilal Zulfiqar**, a Software Engineering Student with keen interest in innovation, development, backend integration, and building polished mobile experiences.  
+This VPN app is part of my portfolio showcasing my skills in:
+
+- 🔹 Flutter frontend architecture  
+- 🔹 API consumption and live UI updates
+
+Feel free to reach out or collaborate! 😊
+
+> **GitHub**: [github.com/ibn-e-zulfiqar]((https://github.com/ibn-e-zulfiqar))  
+> **Email**: bilalzulfiqar2004@gmail.com
+   
    
