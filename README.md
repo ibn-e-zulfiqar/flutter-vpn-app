@@ -1,4 +1,4 @@
-# 🛡️ Ghostline VPN — Flutter VPN App
+# 🛡️ Bilal VPN — Flutter VPN App
 
 A modern VPN client built with Flutter and Kotlin. Ghostline VPN connects to [VPNGate](https://www.vpngate.net/) servers in real time, allowing users to browse securely while viewing connection status, server info, and IP changes directly in the app.
 
