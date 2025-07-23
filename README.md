@@ -36,17 +36,7 @@ A modern VPN client built with Flutter and Kotlin. Ghostline VPN connects to [VP
 
 ---
 
-## 📂 Folder Structure Highlights
 
-lib/
-│
-├── controller/
-│   └── location_controller.dart      # Handles IP & server data fetching
-├── screens/
-│   ├── home.dart                     # VPN status screen
-│   └── serverscreen.dart            # List & select VPN servers
-├── vpn/
-│   └── vpn_controller.dart          # Handles VPN start/stop
 
 
 ## 🛠️ Tech Stack
